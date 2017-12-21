@@ -1,0 +1,48 @@
+Names,Japanese motor vehicle production in thousand (1947每1989).,Link
+ 9-10,N/A,
+ 9-13,N/A,
+ 9-17b,N/A,
+ 9-3,N/A,
+ 9-4,N/A,
+airline,The classic Box & Jenkins airline data. Monthly totals of international airline passengers (1949每 1960).,https://cran.r-project.org/web/packages/fma/fma.pdf
+bank,Deposits in a mutual savings bank in a large metropolitan area.,https://cran.r-project.org/web/packages/fma/fma.pdf
+beer2,Monthly Australian beer production: Jan 1991 每 Aug 1995,https://cran.r-project.org/web/packages/fma/fma.pdf
+bicoal,Annual bituminous coal production in the USA: 1920每1968.,https://cran.r-project.org/web/packages/fma/fma.pdf
+boston,Monthly dollar volume of sales on Boston stock exchange and combined New York and American stock exchange. January 1967 每 November 1969.,https://cran.r-project.org/web/packages/fma/fma.pdf
+capital,Seasonally adjusted quarterly capital expenditure and appropriations in U.S. manufacturing: 1953每 1974.,https://cran.r-project.org/web/packages/fma/fma.pdf
+co2,"Monthly time series of carbon dioxide measurements at Mauna Loa, Hawaii from 1959 to 1990",https://cran.r-project.org/web/packages/locfit/locfit.pdf
+computer,Prices of personal computers.,https://cran.r-project.org/web/packages/Ecdat/Ecdat.pdf
+cpi,Quarterly CPI (consumer price index) for Victoria: Q1 1980 to Q2 1995.,https://cran.r-project.org/web/packages/fma/fma.pdf
+deaths,"A time series giving the monthly deaths from bronchitis, emphysema and asthma in the UK, 1974- 1979, both sexes (deaths),",https://cran.r-project.org/web/packages/MASS/MASS.pdf
+dj,Dow-Jones index on 251 trading days ending 26 Aug 1994.,https://cran.r-project.org/web/packages/fma/fma.pdf
+dole,Monthly total of people on unemployment benefits in Australia (Jan 1965 每 Jul 1992).,https://cran.r-project.org/web/packages/fma/fma.pdf
+dowjones,"Dow-Jones index, 28 Aug - 18 Dec 1972.",https://cran.r-project.org/web/packages/fma/fma.pdf
+elec,Australian monthly electricity production: Jan 1956 每 Aug 1995.,https://cran.r-project.org/web/packages/fma/fma.pdf
+elecnew,Monthly total generation of electricity by the U.S. electric industry (Jan 1985 - Oct 1996).,https://cran.r-project.org/web/packages/fma/fma.pdf
+hsales,Monthly sales of new one-family houses sold in the USA since 1973.,https://cran.r-project.org/web/packages/fma/fma.pdf
+hsales2,Sales of new one-family houses in the USA (Jan 1987 每 Nov 1995).,https://cran.r-project.org/web/packages/fma/fma.pdf
+huron,Level of Lake Huron in feet (reduced by 570 feet): 1875每1972.,https://cran.r-project.org/web/packages/fma/fma.pdf
+ibm2,Daily closing IBM stock price.,https://cran.r-project.org/web/packages/fma/fma.pdf
+jcars,Japanese motor vehicle production in thousand (1947每1989).,https://cran.r-project.org/web/packages/fma/fma.pdf
+labour,Number of persons in the civilian labour force in Australia each month (Feb 1978 - Aug 1995),https://cran.r-project.org/web/packages/fma/fma.pdf
+lynx,Annual number of lynx trapped in McKenzie river district of northwest Canada: 1821每1934.,https://cran.r-project.org/web/packages/fma/fma.pdf
+milk,Average monthly milk production per cow over 14 years.,https://cran.r-project.org/web/packages/fma/fma.pdf
+mink,Annual number of minks trapped in McKenzie river district of northwest Canada: 1848每1911.,https://cran.r-project.org/web/packages/fma/fma.pdf
+motel,"Total room nights occupied and total monthly takings from accommodation at hotel, motel and guest house in Victoria, Australia: Jan 1980 - June 1995.",https://cran.r-project.org/web/packages/fma/fma.pdf
+motion,Monthly employment ?gures for the motion picture industry (SIC Code 78): Jan 1955 每 Dec 1970.,https://cran.r-project.org/web/packages/fma/fma.pdf
+ntriangle,A narrow triangle.,Our generated
+pigs,"Monthly total number of pigs slaughtered in Victoria, Australia (Jan 1980 每 Aug 1995).",https://cran.r-project.org/web/packages/fma/fma.pdf
+plastics,Monthly sales of product A for a plastics manufacturer.,https://cran.r-project.org/web/packages/fma/fma.pdf
+pollutn,"Monthly shipments of pollution equipment (in thousands of French francs), Jan 1986 每 Oct 1996.",https://cran.r-project.org/web/packages/fma/fma.pdf
+prodc,Sales of product C (a lubricant sold in large containers).,https://cran.r-project.org/web/packages/fma/fma.pdf
+qcircle,A quarter circle.,Our generated
+schizo,Daily perceptual speed scores for a schizophrenic patient. The patient began receiving a powerful tranquilizer(chlorpromzaine)onthe61stdayandcontinuedreceivingthedrugfortheremainderof the sample period. It is expected that this drug would reduce perceptual speed.,https://cran.r-project.org/web/packages/fma/fma.pdf
+shampoo,Sales of shampoo over a three year period.,https://cran.r-project.org/web/packages/fma/fma.pdf
+sheep,Sheep population (in millions) of England and Wales: 1867每1939.,https://cran.r-project.org/web/packages/fma/fma.pdf
+stock1,Stock price of 600000(Shanghai Pudong Development Bank) in Shanghai Stock Exchange.,
+stock2,Stock price of 600004(Guangzhou-Baiyun International Airport) in Shanghai Stock Exchange.,
+stock3,Stock price of 600005(Wuhan Iron and Steel Company Limited) in Shanghai Stock Exchange.,
+sunspot,Yearly numbers of sunspots from 1700 to 1988 (rounded to one digit).,https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/sunspot.year.html
+wagesuk,"Real daily wages in pound, England: 1260每1994.",https://cran.r-project.org/web/packages/fma/fma.pdf
+wnoise,White noise time series with 36 values.,https://cran.r-project.org/web/packages/fma/fma.pdf
+writing,Industrysalesforprintingandwritingpaper(inthousandsofFrenchfrancs): Jan1963每Dec1972.,https://cran.r-project.org/web/packages/fma/fma.pdf
